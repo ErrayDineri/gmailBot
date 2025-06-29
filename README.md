@@ -22,7 +22,7 @@ A Node.js application that automatically listens for incoming Gmail messages and
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ErrayDineri/gmailBot
 cd gmailBot
 ```
 
